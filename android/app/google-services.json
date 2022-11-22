@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828792592590",
+    "project_id": "tsa-mobile-project",
+    "storage_bucket": "tsa-mobile-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828792592590:android:0930f166df5543c114189f",
+        "android_client_info": {
+          "package_name": "com.example.minggu_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828792592590-7i4vggspuaocnhli2ktavr58vnpe8hbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHDZDdkTIi2PXU588_fA-ditWBN-gIt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828792592590-7i4vggspuaocnhli2ktavr58vnpe8hbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
